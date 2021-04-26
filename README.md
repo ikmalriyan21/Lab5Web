@@ -61,3 +61,21 @@ Pembuatan fungsi dan cara pemanggilannya
 
 
 
+
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/3e0114a325402e29f9444ac8af2cd58fd21c4c74/gambar/codingan%20%20fungsi%20dan%20cara%20pemanggilannya.png)
+
+Hasil Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
