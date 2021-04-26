@@ -104,13 +104,13 @@ Seleksi kondisi (if..else)
 
 ![input](https://github.com/ikmalriyan21/Lab5Web/blob/9d54c64189186ff66b6b8ea66eac1df94e3cb4d7/gambar/codingan%20seleksi%20kondisi%20(if.else).png)
 
+Hasil Output
 
 
 
 
 
-
-
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/8c57f9165672ae922f70bbe46c8fc7ad6ddae46f/gambar/output%20seleksi%20kondisi%20(if.else)%201.png)
 
 
 
