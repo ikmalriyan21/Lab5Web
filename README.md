@@ -130,9 +130,9 @@ Penggunaan operator switch untuk seleksi kondisi
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/7d19d6443c8d8c874b084922134cbfb4de8a793d/gambar/codingan%20operator%20switch%202.png)
 
-
-
+Hasil Output
 
 
 
