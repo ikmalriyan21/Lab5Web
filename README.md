@@ -200,9 +200,9 @@ Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/bd409cf8585aa4ef573b226057a59f35c13b52fc/gambar/codingan%20checkbox%202.png)
 
-
-
+Hasil Output
 
 
 
