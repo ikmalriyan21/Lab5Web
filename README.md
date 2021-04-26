@@ -162,9 +162,9 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/214bd8fd0131f7726c61af7ce4a061e00e195702/gambar/output%20form%20input.png)
 
-
-
+Form Button
 
 
 
