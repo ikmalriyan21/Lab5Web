@@ -138,7 +138,7 @@ Hasil Output
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/e4571ec30eb237bbf93b5c3503e394cb48466f24/gambar/output%20operator%20switch%201.png)
 
 
 
