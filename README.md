@@ -22,9 +22,9 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/ab8844cf56d44899eff1fd34a2f887951e68b27f/gambar/output%20alert%20property%20window.png)
 
-
-
+Pemakaian method dalam objek
 
 
 
