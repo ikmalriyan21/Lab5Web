@@ -184,9 +184,11 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/82f3e897f955b27fdfa5da248458357bc26a84bb/gambar/output%20form%20button.png)
 
+# HTML DOM
 
-
+Pilihan menggunakan checkBox dengan perhitungan otomatis
 
 
 
