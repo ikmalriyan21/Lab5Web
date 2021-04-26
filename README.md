@@ -54,9 +54,9 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/67e8b43674926adf46853c82cffb7ca47d8c10f0/gambar/output%20pemakaian%20prompt.png)
 
-
-
+Pembuatan fungsi dan cara pemanggilannya
 
 
 
