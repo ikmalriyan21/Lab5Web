@@ -38,6 +38,22 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/f65c2286b309acd1ff1c0c829912f82dd33d782f/gambar/output%20method%20dalam%20objek.png)
+
+Pemakaian Prompt
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
