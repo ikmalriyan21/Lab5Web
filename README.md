@@ -46,9 +46,9 @@ Pemakaian Prompt
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/385b40b9b8db13dd6477e0d3f2578590c5813753/gambar/codingan%20pemakaian%20prompt.png)
 
-
-
+Hasil Output
 
 
 
