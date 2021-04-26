@@ -176,6 +176,22 @@ Form Button
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/c741f6e3edc08bf2a4298e4ffeef4bb580430f33/gambar/codingan%20form%20button%202.png)
+
+Hasil Output
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
