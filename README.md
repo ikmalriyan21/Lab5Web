@@ -143,3 +143,19 @@ Hasil Output
 
 
 
+
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/d38444534f0d57a82d8ce1dc77aa0c8385501342/gambar/output%20operator%20switch%202.png)
+
+# Pembuatan Form
+
+Form Input
+
+
+
+
+
+
+
+
+
+
