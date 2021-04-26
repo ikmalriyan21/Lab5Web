@@ -94,9 +94,9 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/6ed0857ad3ed57155ec997be21d105f53818e9ca/gambar/output%20operasi%20dasar%20aritmatika%202.png)
 
-
-
+Seleksi kondisi (if..else)
 
 
 
