@@ -30,6 +30,18 @@ Pemakaian method dalam objek
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/b0273987fbfa9da4ba9634da3a85d8290802e545/gambar/codingan%20method%20dalam%20objek.png)
+
+Hasil Output
+
+
+
+
+
+
+
+
+
 
 
 
