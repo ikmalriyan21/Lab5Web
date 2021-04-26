@@ -80,4 +80,25 @@ Operasi Dasar Aritmatika
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/417de49db51a97e17cc553626cd57fdcef134007/gambar/codingan%20operasi%20dasar%20aritmatika.png)
+
+Hasil Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
