@@ -208,16 +208,4 @@ Hasil Output
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/b496d287fe22f0b97856db97da26db9be8a2c1df/gambar/output%20checkbox.png)
