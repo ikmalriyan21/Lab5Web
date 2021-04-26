@@ -116,6 +116,29 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/f6d37abec87b93f9b2089039938f80f10429fda6/gambar/output%20seleksi%20kondisi%20(if.else)%202.png)
+
+Penggunaan operator switch untuk seleksi kondisi
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
