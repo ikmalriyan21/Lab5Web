@@ -88,7 +88,7 @@ Hasil Output
 
 
 
-
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/ef399a4ee4ffccf5df7911b9b395b8bc567aecb2/gambar/output%20operasi%20dasar%20aritmatika%201.png)
 
 
 
