@@ -154,6 +154,28 @@ Form Input
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/343279a52e8f3cdc3a93535723b751539d584f1e/gambar/codingan%20form%20input.png)
+
+Hasil Output
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
