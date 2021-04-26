@@ -70,9 +70,11 @@ Hasil Output
 
 
 
+![input](https://github.com/ikmalriyan21/Lab5Web/blob/82622f5b8731a348489741224f1847d87034613a/gambar/output%20fungsi%20dan%20cara%20pemanggilannya.png)
 
+# Dasar Pemrograman Di Javascript
 
-
+Operasi Dasar Aritmatika
 
 
 
